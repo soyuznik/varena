@@ -1,2 +1,3 @@
 C:\Users\user\Documents\GitHub\MonoVMEmbed\Albine\x64\Debug\Albine.exe
 C:\Users\user\Documents\GitHub\Albine\x64\Debug\Albine.exe
+C:\Users\user\Documents\GitHub\Varena\Albine\x64\Debug\Albine.exe
