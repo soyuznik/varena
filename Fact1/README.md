@@ -1,0 +1,1 @@
+https://www.varena.ro/problema/fact1
