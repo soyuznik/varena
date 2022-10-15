@@ -1,0 +1,13 @@
+﻿  Fractie (clasa 6-a).cpp
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(17,25): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(18,26): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(18,44): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(19,29): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(19,47): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(33,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\Fractie (clasa 6-a).cpp(35,48): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Fractie (clasa 6-a).vcxproj -> C:\Users\user\Documents\GitHub\varena\Fractie (clasa 6-a)\x64\Debug\Fractie (clasa 6-a).exe
