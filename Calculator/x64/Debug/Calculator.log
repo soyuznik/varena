@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+C:\Users\user\Documents\GitHub\varena\Calculator\Calculator.cpp(45,28): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Calculator.vcxproj -> C:\Users\user\Documents\GitHub\varena\Calculator\x64\Debug\Calculator.exe
