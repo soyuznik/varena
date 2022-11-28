@@ -1,4 +1,4 @@
-#include <fstream>
+include <fstream>
 #include <sstream>
 #include <string>
 #include <algorithm>
@@ -54,26 +54,24 @@ int main()
 	///--------------------------------------------
 	for(int i = 0; i < canibali.size(); i++){
 		int should_eat = 0;
-		if(canibali[i].v < canibali[i + 1].v){
+		if(canibali[i].v >= canibali[i + 1].v){
 			should_eat++;
 		}
-		if(canibali[i].r < canibali[i + 1].r){
+		if(canibali[i].r >= canibali[i + 1].r){
 			should_eat++;
 		}
-		if(canibali[i].f < canibali[i + 1].f){
+		if(canibali[i].f >= canibali[i + 1].f){
 			should_eat++;
 		}
-		if(canibali[i].a < canibali[i + 1].a){
+		if(canibali[i].a >= canibali[i + 1].a){
 			should_eat++;
 		}
-		if(should_eat % 2){
+		if(!(should_eat % 2)){
 			canibali.erase(canibali.begin() + i);
 		}
-		else{
-			canibali.erase(canibali.begin() + i + 1);
-		}
+		
 	}
 	ofstream fileW("./canibali.out");
-	fileW<< canibali.size();
+	fileW << canibali.size() + 1;
 	fileW.close();
 }
