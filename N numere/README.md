@@ -1,0 +1,1 @@
+https://www.nerdarena.ro/problema/nnr
